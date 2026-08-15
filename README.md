@@ -1,9 +1,12 @@
 Notes, reports, papers, publications and other stuff that I have accumulated over the years ...
 
-## [Staff Layout Analysis Using the YOLO Platform](https://arxiv.org/abs/2411.15741) (publication, 🇬🇧, 2024)
+## [DEMUN: Fast and accurate discovery of music notation in very large collections](https://arxiv.org/abs/2606.31956) (publication, 🇬🇧, 2026)
 
-- Vojtěch Dvořák, Jan jr. Hajič, and Jiří Mayer. **Staff Layout Analysis Using the YOLO Platform**. In Jorge Calvo-Zaragoza, Alexander Pacha, and Elona Shatri, editors, Proceedings of the 6th International Workshop on Reading Music Systems, pages 18-22, Online, 2024. [https://arxiv.org/abs/2411.15741](https://arxiv.org/abs/2411.15741)
-- In this paper, we bring an update on the performance of OMR layout analysis with the state-of-the-art YOLO platform. Compared to the MeasureDetector (the main publicly available tool for layout analysis), it achieves a similar or better accuracy across both in-domain and out-of-domain tests over three different datasets that we harmonized, it is more than 20x faster, and requires more than 4 times less memory.
+## [Optical Music Recognition for Real-World Manuscripts with Synthetic Data](https://arxiv.org/abs/2606.31956) (publication, 🇬🇧, 2026)
+
+## [A Dataset for the Recognition of Historical and Handwritten Music Scores in Western Notation](https://arxiv.org/abs/2605.18436) (publication, 🇬🇧, 2026)
+
+## [Staff Layout Analysis Using the YOLO Platform](https://arxiv.org/abs/2411.15741) (publication, 🇬🇧, 2024)
 
 ## [NDBI045 Notes](https://github.com/v-dvorak/ndbi045-notes) (Vyhledávání ve videu, 🇨🇿, 2024)
 
